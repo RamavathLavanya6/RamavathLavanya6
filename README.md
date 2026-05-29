@@ -3,11 +3,11 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 B.Tech Student passionate about technology and problem-solving
-💻 Interested in MACHINE LEARNING & Data Analytics
-🌱 Currently learning Python, ML, SQL, and Full Stack Development
-📊 Exploring ML , Data Visualization and Analytics Projects
-🤝 Looking to collaborate on Open Source and Beginner-Friendly Projects
+-🎓 B.Tech Student passionate about technology and problem-solving
+-💻 Interested in MACHINE LEARNING & Data Analytics
+-🌱 Currently learning Python, ML, SQL, and Full Stack Development
+-📊 Exploring ML , Data Visualization and Analytics Projects
+-🤝 Looking to collaborate on Open Source and Beginner-Friendly Projects
 ---
 
 ## 🌐 Connect With Me
