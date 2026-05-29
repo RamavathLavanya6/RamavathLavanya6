@@ -64,7 +64,7 @@ and building impactful projects to strengthen my technical expertise and profess
 ## 🛠️ Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,flask,tensorflow,pandas,numpy,html,css,powerbi" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,flask,tensorflow,pandas,numpy,html,css,powerbi"/>
 </p>
 
 ---
