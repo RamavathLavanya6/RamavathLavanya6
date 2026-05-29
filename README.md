@@ -61,12 +61,53 @@ and building impactful projects to strengthen my technical expertise and profess
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Technical Skills
+
+---
+
+### 💻 Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,flask,tensorflow,pandas,numpy,html,css,powerbi"/>
+<img src="https://skillicons.dev/icons?i=python,c,java" />
 </p>
 
+---
+
+### 🌐 Web Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,flask" />
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+### 📊 Data Analytics & Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+---
+
+### ⚙️ Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 ---
 
 ## 🚀 Featured Projects
